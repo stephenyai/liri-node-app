@@ -6,6 +6,6 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
 Type in the following commands followed by corresponding name to see information on songs, concerts, and movies:
 
-* 'spotify-this song' <insert song name>
-* 'movie-this' <insert movie name>
-* 'concert-this' <insert band name>
+* 'spotify-this song' _insert song name_
+* 'movie-this' _insert movie name_
+* 'concert-this' _insert band name_
